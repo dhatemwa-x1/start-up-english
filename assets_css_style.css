@@ -1,0 +1,7 @@
+body {
+  font-family: 'Segoe UI', Arial, sans-serif;
+}
+.card-img-top {
+  height: 220px;
+  object-fit: cover;
+}
